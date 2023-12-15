@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1/p/424acuw1BU8hOkRQTj8vkFnh3g06XOLzZBlQOGRT/0j9wwW5N1htnNuHTFB5c8Xs46OWbxnP4Hl6jDY9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\armi0\\source\\repos\\image processing deneme\\image processing\\image processing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\armi0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\armi0\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\armi0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\armi0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

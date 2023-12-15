@@ -1,0 +1,40 @@
+C:\Users\armi0\source\repos\image processing\image processing\bin\Debug\net5.0-windows\image processing.exe
+C:\Users\armi0\source\repos\image processing\image processing\bin\Debug\net5.0-windows\image processing.deps.json
+C:\Users\armi0\source\repos\image processing\image processing\bin\Debug\net5.0-windows\image processing.runtimeconfig.json
+C:\Users\armi0\source\repos\image processing\image processing\bin\Debug\net5.0-windows\image processing.runtimeconfig.dev.json
+C:\Users\armi0\source\repos\image processing\image processing\bin\Debug\net5.0-windows\image processing.dll
+C:\Users\armi0\source\repos\image processing\image processing\bin\Debug\net5.0-windows\ref\image processing.dll
+C:\Users\armi0\source\repos\image processing\image processing\bin\Debug\net5.0-windows\image processing.pdb
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image processing.csproj.AssemblyReference.cache
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image_processing.Form1.resources
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image_processing.Form2.resources
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image_processing.Properties.Resources.resources
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image processing.csproj.GenerateResource.cache
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image processing.AssemblyInfoInputs.cache
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image processing.AssemblyInfo.cs
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image processing.csproj.CoreCompileInputs.cache
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image processing.dll
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\ref\image processing.dll
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image processing.pdb
+C:\Users\armi0\source\repos\image processing\image processing\obj\Debug\net5.0-windows\image processing.genruntimeconfig.cache
+C:\Users\armi0\source\repos\image processing deneme\image processing\bin\Debug\net5.0-windows\image processing.exe
+C:\Users\armi0\source\repos\image processing deneme\image processing\bin\Debug\net5.0-windows\image processing.deps.json
+C:\Users\armi0\source\repos\image processing deneme\image processing\bin\Debug\net5.0-windows\image processing.runtimeconfig.json
+C:\Users\armi0\source\repos\image processing deneme\image processing\bin\Debug\net5.0-windows\image processing.runtimeconfig.dev.json
+C:\Users\armi0\source\repos\image processing deneme\image processing\bin\Debug\net5.0-windows\image processing.dll
+C:\Users\armi0\source\repos\image processing deneme\image processing\bin\Debug\net5.0-windows\ref\image processing.dll
+C:\Users\armi0\source\repos\image processing deneme\image processing\bin\Debug\net5.0-windows\image processing.pdb
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image processing.csproj.AssemblyReference.cache
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image_processing.Form1.resources
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image_processing.Form2.resources
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image_processing.Properties.Resources.resources
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image processing.csproj.GenerateResource.cache
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image processing.AssemblyInfoInputs.cache
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image processing.AssemblyInfo.cs
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image processing.csproj.CoreCompileInputs.cache
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image processing.dll
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\ref\image processing.dll
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image processing.pdb
+C:\Users\armi0\source\repos\image processing deneme\image processing\obj\Debug\net5.0-windows\image processing.genruntimeconfig.cache
